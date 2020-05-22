@@ -15,5 +15,5 @@ var divide = function(num1, num2) {
 
   var num1 = parseInt(prompt("Enter a kligong number"));
   var num2 = parseInt(prompt("Enter another kligong number"));
-  var answer = subtract(num1, num2)
+  var answer = divide(num1, num2)
   alert(answer)
