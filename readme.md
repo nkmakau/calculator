@@ -12,10 +12,12 @@ a calculator assigment to practice JS.
 * call the script in html
 * push to git
 * Enjoy calculating.
+## Improvements, 10/06/2020
+Added a neat user Interface and used JQuery... cool!!
 ## Known Bugs
-Currently no known bugs.
+It does only addition.
 ## Technologies Used
-html, js and css. Also used Markdown for the readme file
+html, js, JQuery, and css. Also used Markdown for the readme file
 ## Support and contact details
 For any queries please contact noshmak@gmail.com
 ### License
