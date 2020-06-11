@@ -25,6 +25,7 @@ $(document).ready(function () {
     $("#output").text(answer)
   })
 
+//subtraction
   $("form#sub").submit(function (event) {
     event.preventDefault()
     var num1 = parseInt($("#sub1").val())
@@ -33,6 +34,7 @@ $(document).ready(function () {
     $("#output1").text(answer)
   })
 
+  //Multiplication
   $("form#mult").submit(function (event) {
     event.preventDefault()
     var num1 = parseInt($("#mult1").val())
@@ -41,6 +43,7 @@ $(document).ready(function () {
     $("#output2").text(answer)
   })
 
+//Division
   $("form#divi").submit(function (event) {
     event.preventDefault()
     var num1 = parseInt($("#divi1").val())
