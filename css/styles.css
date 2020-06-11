@@ -1,0 +1,28 @@
+body{
+	background-color: #4d1919 !important;
+}
+
+h1,h2,h3,h4,h5,h6,a{
+	color:#ffffff;
+	text-transform: capitalize;
+}
+
+.jumbotron{
+	color:rgb(212, 214, 226);
+	background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),url('../../images/hero.jpg');
+	background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.label{
+    color: rgb(253, 250, 250);
+    text-transform: capitalize;
+}
+
+.label2{
+    color: aliceblue;
+    text-decoration-style: solid;
+}
